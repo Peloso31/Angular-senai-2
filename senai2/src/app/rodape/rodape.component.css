@@ -1,0 +1,11 @@
+footer {
+ background: rgb(216, 216, 216);
+ color: black;
+ text-align: center;
+ height: 100px;
+ padding-top: 30px;
+}
+
+footer p {
+    font-size: 12pt arial;
+}
